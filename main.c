@@ -13,7 +13,7 @@
 #include <string.h>
 #include "binario.h"
 
-int TABLE_SIMBOL_SIZE = 0;
+int TABLE_SIMBOL_SIZE = 0; //teste
 
 int main(int argc, char *argv[]){
 
